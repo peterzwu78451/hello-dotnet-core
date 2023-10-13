@@ -1,0 +1,11 @@
+inputSet:
+  pipeline:
+    identifier: Build_hello_dotnet_core_1697217041274
+    properties:
+      ci:
+        codebase:
+          build: ""
+  name: test
+  identifier: test
+  orgIdentifier: default
+  projectIdentifier: default_project
